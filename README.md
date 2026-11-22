@@ -1,5 +1,6 @@
 https://youtu.be/Mz8s0XRMTwQ
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/0078fcd8-2589-4fd2-8cf1-5b3471e4ee9b" />
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/4a312092-4473-4a04-99fe-6e719a6d0134" />
+
 
 一、 製作流程
 專案建立與 3D 模型匯入 :
